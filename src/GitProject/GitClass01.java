@@ -6,5 +6,7 @@ public class GitClass01 {
         System.out.println("I am groot");
         System.out.println("more code");
         System.out.println("even more code");
+
+        System.out.println("I am correct code");
     }
 }
