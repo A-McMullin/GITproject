@@ -1,6 +1,6 @@
-package GitProject;
+package GitClass01;
 
-public class GitClass01 {
+public class Main {
 
     public static void main(String[] args) {
         System.out.println("I am groot");
